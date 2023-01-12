@@ -6,3 +6,9 @@ These are the challenges I undertook as part of the CS50 course I did after fini
 
 By solving these problems I developed a fundamental understanding of C and enhanced my problem-solving skills significantly. 
 
+Skills gained: 
+- Data Structures
+- Memory
+- Algorithms
+- Arrays 
+- C
